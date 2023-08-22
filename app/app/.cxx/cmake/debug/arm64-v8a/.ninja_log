@@ -1,0 +1,7 @@
+# ninja log v5
+6	1192	714342909	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	7ff82d237f355468
+4	1198	714342909	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	a61499dbfa548c1b
+1	1316	714342909	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	a381870fbfbcfb3
+1316	1872	714342910	S:/github/signlingo-main/Deployment/app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	1012fe87a9f0997e
+2	675	714343121	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	a381870fbfbcfb3
+675	1091	714343121	S:/github/signlingo-main/Deployment/app/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov8ncnn.so	1012fe87a9f0997e

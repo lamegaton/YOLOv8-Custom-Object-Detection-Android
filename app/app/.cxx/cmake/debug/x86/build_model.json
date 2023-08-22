@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "S:\\github\\signlingo-main\\Deployment\\app",
+      "sdkFolder": "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "S:\\github\\signlingo-main\\Deployment\\app\\app",
+      "makeFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "S:\\github\\signlingo-main\\Deployment\\app\\.cxx",
+      "cxxFolder": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 26,
+  "cxxBuildFolder": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\x86",
+  "jsonFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\cmake\\debug\\obj\\x86",
+  "buildCommandFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cxx\\debug\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cxx\\debug\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cxx\\debug\\x86\\build_generation_state.json",
+    "cacheKeyFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cxx\\debug\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cxx\\debug\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\x86\\compile_commands.json"
+}

@@ -1,0 +1,19 @@
+Executable : C:\Users\jorge\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\Users\jorge\Downloads\ncnn-android-yolov8-main\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\jni
+-BC:\Users\jorge\Downloads\ncnn-android-yolov8-main\ncnn-android-yolov8-main\ncnn-android-yolov8\app\.cxx\cmake\debug\x86_64
+-DANDROID_ABI=x86_64
+-DANDROID_PLATFORM=android-26
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\jorge\Downloads\ncnn-android-yolov8-main\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\cmake\debug\obj\x86_64
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=C:\Users\jorge\AppData\Local\Android\Sdk\ndk\21.3.6528147
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_SYSTEM_VERSION=26
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=C:\Users\jorge\AppData\Local\Android\Sdk\ndk\21.3.6528147
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\jorge\AppData\Local\Android\Sdk\ndk\21.3.6528147\build\cmake\android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=C:\Users\jorge\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+jvmArgs : 
+

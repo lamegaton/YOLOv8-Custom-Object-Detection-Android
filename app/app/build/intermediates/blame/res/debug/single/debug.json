@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\d1a6c7ee41fbe72753318d9586f1a513\\support-media-compat-28.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\d1a6c7ee41fbe72753318d9586f1a513\\support-media-compat-28.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\d1a6c7ee41fbe72753318d9586f1a513\\support-media-compat-28.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\d1a6c7ee41fbe72753318d9586f1a513\\support-media-compat-28.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\drawable\\ic_camera.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\d1a6c7ee41fbe72753318d9586f1a513\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\d1a6c7ee41fbe72753318d9586f1a513\\support-media-compat-28.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\d1a6c7ee41fbe72753318d9586f1a513\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\d1a6c7ee41fbe72753318d9586f1a513\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\d1a6c7ee41fbe72753318d9586f1a513\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\sonph\\.gradle\\caches\\transforms-2\\files-2.1\\dd1cf78f22bdd94f550130b281f27c97\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    }
+]

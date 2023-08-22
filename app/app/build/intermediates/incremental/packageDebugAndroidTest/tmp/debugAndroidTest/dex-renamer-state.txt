@@ -1,0 +1,4 @@
+#Tue Feb 28 10:44:23 CET 2023
+base.0=C\:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

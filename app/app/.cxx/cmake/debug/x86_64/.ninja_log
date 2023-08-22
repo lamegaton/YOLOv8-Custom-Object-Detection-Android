@@ -1,0 +1,11 @@
+# ninja log v5
+5	1121	699280652	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	f2c3f1099d5102e5
+1	1188	699280652	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	6f033fd26b0d6d89
+10	1311	699280652	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	b946e7a2c968d63a
+1311	1967	699280653	C:/Users/jorge/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8-main/ncnn-android-yolov8/app/build/intermediates/cmake/debug/obj/x86_64/libyolov8ncnn.so	c0ce2c346ea1e45d
+6	1340	699969627	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	b946e7a2c968d63a
+1340	2106	699969628	C:/Users/jorge/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8-main/ncnn-android-yolov8/app/build/intermediates/cmake/debug/obj/x86_64/libyolov8ncnn.so	c0ce2c346ea1e45d
+3	1232	699970195	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	b946e7a2c968d63a
+1232	1930	699970196	C:/Users/jorge/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8-main/ncnn-android-yolov8/app/build/intermediates/cmake/debug/obj/x86_64/libyolov8ncnn.so	c0ce2c346ea1e45d
+3	1203	699970429	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	b946e7a2c968d63a
+1203	1725	699970430	C:/Users/jorge/Downloads/ncnn-android-yolov8-main/ncnn-android-yolov8-main/ncnn-android-yolov8/app/build/intermediates/cmake/debug/obj/x86_64/libyolov8ncnn.so	c0ce2c346ea1e45d

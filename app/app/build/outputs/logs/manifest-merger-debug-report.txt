@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\69ee415b12564ec70670df83c9fdfa6f\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\d1a6c7ee41fbe72753318d9586f1a513\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\59df75d251431efe4d450d41cc6b083b\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\ee7de4c472f1da0a0213606950b8c4e7\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\e6827550b79bb297911c95f109ecf5ac\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\e8e201b21520ad3812ed914e69a9b405\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\00866cffd6a67b64ccbc8d2d951560dc\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\5d3c4801a740528a85d2e670b2dd23b7\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\109e2debe5d47fa4d8f7fe1f15c611f3\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\640954c0bd14789761b1de9b02daedae\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\8c3534d87178de95eb9cb75f77214055\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\49f9e7bd74012c3341e4a938529d56fe\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\699e03d2cbc668da0d189768d4447a8b\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\dd1cf78f22bdd94f550130b281f27c97\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\8bb2478d12c0baf5b421024800cd7dbb\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\2a54fb7d4a09e43fd13a659c38a9bf2a\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\d86ffcf39ba8aec22a7ebfd4c1172e3f\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\7f3ed6ce49569e0dbf9accf24b63a15b\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\707c6356496c3791d321c055fe777af8\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\525bf97e52a2b96ba94f7509a71e8a56\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\406adf1b047a0fb17968819a70f96dd9\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\426821499609b124edd91485548e30d0\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\b5f1a18436322a4d6243b4d563cfece4\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\6104c576404b17797d5f42ae60105d1d\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\7c5e711cb7599bc18a19cc1df98bc8d6\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:3:7-39
+		INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml
+		INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml
+		INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml
+		INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera2.full
+ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:7:19-63
+application
+ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:9:5-22:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\dd1cf78f22bdd94f550130b281f27c97\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\dd1cf78f22bdd94f550130b281f27c97\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\8bb2478d12c0baf5b421024800cd7dbb\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\8bb2478d12c0baf5b421024800cd7dbb\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\dd1cf78f22bdd94f550130b281f27c97\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:11:9-43
+activity#com.tencent.yolov8ncnn.MainActivity
+ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:screenOrientation
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:16:19-55
+	android:label
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:15:19-51
+	android:name
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:14:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\69ee415b12564ec70670df83c9fdfa6f\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\69ee415b12564ec70670df83c9fdfa6f\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\d1a6c7ee41fbe72753318d9586f1a513\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\d1a6c7ee41fbe72753318d9586f1a513\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\59df75d251431efe4d450d41cc6b083b\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\59df75d251431efe4d450d41cc6b083b\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\ee7de4c472f1da0a0213606950b8c4e7\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\ee7de4c472f1da0a0213606950b8c4e7\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\e6827550b79bb297911c95f109ecf5ac\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\e6827550b79bb297911c95f109ecf5ac\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\e8e201b21520ad3812ed914e69a9b405\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\e8e201b21520ad3812ed914e69a9b405\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\00866cffd6a67b64ccbc8d2d951560dc\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\00866cffd6a67b64ccbc8d2d951560dc\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\5d3c4801a740528a85d2e670b2dd23b7\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\5d3c4801a740528a85d2e670b2dd23b7\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\109e2debe5d47fa4d8f7fe1f15c611f3\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\109e2debe5d47fa4d8f7fe1f15c611f3\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\640954c0bd14789761b1de9b02daedae\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\640954c0bd14789761b1de9b02daedae\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\8c3534d87178de95eb9cb75f77214055\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\8c3534d87178de95eb9cb75f77214055\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\49f9e7bd74012c3341e4a938529d56fe\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\49f9e7bd74012c3341e4a938529d56fe\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\699e03d2cbc668da0d189768d4447a8b\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\699e03d2cbc668da0d189768d4447a8b\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\dd1cf78f22bdd94f550130b281f27c97\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\dd1cf78f22bdd94f550130b281f27c97\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\8bb2478d12c0baf5b421024800cd7dbb\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\8bb2478d12c0baf5b421024800cd7dbb\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\2a54fb7d4a09e43fd13a659c38a9bf2a\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\2a54fb7d4a09e43fd13a659c38a9bf2a\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\d86ffcf39ba8aec22a7ebfd4c1172e3f\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\d86ffcf39ba8aec22a7ebfd4c1172e3f\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\7f3ed6ce49569e0dbf9accf24b63a15b\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\7f3ed6ce49569e0dbf9accf24b63a15b\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\707c6356496c3791d321c055fe777af8\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\707c6356496c3791d321c055fe777af8\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\525bf97e52a2b96ba94f7509a71e8a56\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\525bf97e52a2b96ba94f7509a71e8a56\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\406adf1b047a0fb17968819a70f96dd9\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\406adf1b047a0fb17968819a70f96dd9\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\426821499609b124edd91485548e30d0\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\426821499609b124edd91485548e30d0\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\b5f1a18436322a4d6243b4d563cfece4\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\b5f1a18436322a4d6243b4d563cfece4\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\6104c576404b17797d5f42ae60105d1d\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\6104c576404b17797d5f42ae60105d1d\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\7c5e711cb7599bc18a19cc1df98bc8d6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sonph\.gradle\caches\transforms-2\files-2.1\7c5e711cb7599bc18a19cc1df98bc8d6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml
+		ADDED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml
+		INJECTED from S:\github\signlingo-main\Deployment\app\app\src\main\AndroidManifest.xml

@@ -1,0 +1,64 @@
+{
+  "stringTable": {
+    "0": "S:/github/signlingo-main/Deployment/app/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi26 --gcc-toolchain=C:/Users/sonph/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/sonph/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolov8ncnn_EXPORTS -isystem S:/github/signlingo-main/Deployment/app/app/src/main/jni/ncnn-20230223-android-vulkan/armeabi-v7a/include/ncnn -isystem S:/github/signlingo-main/Deployment/app/app/src/main/jni/opencv-mobile-4.6.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov8ncnn-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" yolov8ncnn",
+      "buildType": "debug",
+      "toolchain": "1593879505",
+      "abi": "armeabi-v7a",
+      "artifactName": "yolov8ncnn",
+      "files": [
+        {
+          "src": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\yolov8ncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\yolo.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libyolov8ncnn.so"
+    }
+  },
+  "toolchains": {
+    "1593879505": {
+      "cppCompilerExecutable": "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

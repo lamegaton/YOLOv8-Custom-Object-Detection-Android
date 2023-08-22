@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.2","enabled":true,"outputFile":"com.tencent.yolov8ncnn-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.tencent.yolov8ncnn","split":"","minSdkVersion":"26"}}]

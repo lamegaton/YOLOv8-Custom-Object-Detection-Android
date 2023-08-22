@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "C:\\Users\\jorge\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVConfig.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules-release.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "C:\\Users\\jorge\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86_64\\lib\\cmake\\glslang\\glslang-config.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\jorge\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\jorge\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov8ncnn-Debug-x86_64": {
+      "artifactName": "yolov8ncnn",
+      "buildCommand": "C:\\Users\\jorge\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\.cxx\\cmake\\debug\\x86_64\" yolov8ncnn",
+      "abi": "x86_64",
+      "output": "C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libyolov8ncnn.so"
+    }
+  }
+}

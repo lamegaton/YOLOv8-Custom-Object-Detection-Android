@@ -1,0 +1,7 @@
+Executable : C:\Users\jorge\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\jorge\Downloads\ncnn-android-yolov8-main\ncnn-android-yolov8-main\ncnn-android-yolov8\app\.cxx\cmake\debug\x86_64
+yolov8ncnn
+jvmArgs : 
+

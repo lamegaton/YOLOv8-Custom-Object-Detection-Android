@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <SurfaceView
+        android:id="@+id/cameraview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layoutSpinner"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="-169dp" />
+
+    <LinearLayout
+        android:id="@+id/layoutSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_above="@+id/buttonSwitchCamera"
+        android:layout_marginBottom="20dp">
+
+        <Spinner
+            android:id="@+id/spinnerModel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawSelectorOnTop="true"
+            android:entries="@array/model_array"
+            android:visibility="invisible" />
+
+        <Spinner
+            android:id="@+id/spinnerCPUGPU"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawSelectorOnTop="true"
+            android:entries="@array/cpugpu_array"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonSwitchCamera"
+        android:layout_width="204dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/ic_camera" />
+
+</RelativeLayout>

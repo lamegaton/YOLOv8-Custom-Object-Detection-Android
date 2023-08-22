@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules-release.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-x86\\OpenCVConfig.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\opencv-mobile-4.6.0-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "S:\\github\\signlingo-main\\Deployment\\app\\app\\src\\main\\jni\\ncnn-20230223-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov8ncnn-Debug-x86": {
+      "artifactName": "yolov8ncnn",
+      "buildCommand": "C:\\Users\\sonph\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"S:\\github\\signlingo-main\\Deployment\\app\\app\\.cxx\\cmake\\debug\\x86\" yolov8ncnn",
+      "abi": "x86",
+      "output": "S:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libyolov8ncnn.so"
+    }
+  }
+}

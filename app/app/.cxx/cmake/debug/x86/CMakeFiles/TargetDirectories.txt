@@ -1,0 +1,3 @@
+S:/github/signlingo-main/Deployment/app/app/.cxx/cmake/debug/x86/CMakeFiles/yolov8ncnn.dir
+S:/github/signlingo-main/Deployment/app/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+S:/github/signlingo-main/Deployment/app/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

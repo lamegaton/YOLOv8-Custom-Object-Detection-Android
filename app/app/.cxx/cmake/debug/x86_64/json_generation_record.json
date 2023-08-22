@@ -1,0 +1,14 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 26 min SDK version: x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027C:\\Users\\jorge\\Downloads\\ncnn-android-yolov8-main\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\.cxx\\cmake\\debug\\x86_64\\android_gradle_build.json\u0027 was up-to-date"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems"
+  }
+]

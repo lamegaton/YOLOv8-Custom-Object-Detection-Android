@@ -1,0 +1,7 @@
+Executable : C:\Users\sonph\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+S:\github\signlingo-main\Deployment\app\app\.cxx\cmake\debug\armeabi-v7a
+yolov8ncnn
+jvmArgs : 
+
