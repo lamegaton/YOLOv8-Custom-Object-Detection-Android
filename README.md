@@ -166,10 +166,10 @@ int Yolo::draw(cv::Mat& rgb, const std::vector<Object>& objects)
 
 File: `best.param`
 
-$$
-\texttt{Permute                  /model.22/Transpose      1 1 /model.22/Concat\_3\_output\_0 } \underbrace{\texttt{output0}}_{\text{OUTPUT\_NAME}} \texttt{ 0=1}
-$$
-
+```
+Permute                  /model.22/Transpose      1 1 /model.22/Concat_3_output_0 output0 0=1
+```
+In this case, out OUTPUT_NAME is output0  
 
 File: `yolo.cpp`
 
