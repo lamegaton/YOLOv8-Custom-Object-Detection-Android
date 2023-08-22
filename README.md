@@ -3,7 +3,7 @@
 ## Exploring methods
 Before starting with onnx, I have tried to convert `.pt` to `tflite`; however, it's quite difficult to implement the pre and pos-processing for `tflite`.
 
-You can check the python code [here](https://github.com/lamegaton/Machine-Learning-and-AI-Examples/blob/main/Supervised/CNNs/YOLO/Examine%20pre-processing%20and%20pos-processing%20from%20YOLOv8.ipynb) to see how it works. That might be a todo task for later implementation; however, at this moment, we want the app is able to run with our trained model first.
+You can check the python code [here](https://github.com/lamegaton/Machine-Learning-and-AI-Examples/blob/main/Supervised/CNNs/YOLO/Examine%20pre-processing%20and%20pos-processing%20from%20YOLOv8.ipynb) to see how it works. Although it might be a task for future consideration, our immediate goal is to ensure that the app runs smoothly with our trained model. Thankfully, ncnn provides a ready-to-use template with `nms_sorted_bboxes`.
 
 ## Steps to implement
 If you install yolov8 with pip you can locate the package and edit the source code. Ultranalytics also propose a way to convert directly to ncnn [here](https://github.com/ultralytics/ultralytics/pull/3529), but I have not tried it yet. So, for now we just convert `.pt` file to `.onnx`, and finally to `.param` and `bin`:
@@ -122,6 +122,7 @@ class Detect(nn.Module):
 > yolo task=detect mode=export model=best.pt format=onnx simplify=True opset=13 imgsz=416
 
 ### Step 3: convert `onnx` to `.param` and `.bin`
+For this task we will use this website here
 https://convertmodel.com/
 
 <img src="tutorial_assets/convertmodel.png" width="300" />
@@ -132,10 +133,73 @@ Directory: `app/src/main/jni`
 <img src="tutorial_assets/opencv_ncnn.png" width="300" />
 
 
+
 ### Step 5: edit `CMakeLists.txt` with name of opencv and ncnn
+We will change the name of ncnn and opencv in CMakeLists to match with what we have
+
+```c
+set(OpenCV_DIR ${CMAKE_SOURCE_DIR}/opencv-mobile-4.6.0-android/sdk/native/jni)
+find_package(OpenCV REQUIRED core imgproc)
+
+set(ncnn_DIR ${CMAKE_SOURCE_DIR}/ncnn-20230223-android-vulkan/${ANDROID_ABI}/lib/cmake/ncnn)
+find_package(ncnn REQUIRED)
+```
 
 ### Step 6: edit `yolo.cpp`
+This file contains function for pre and post processing. There are a few places need to be editted.
+1. we need to change our model's name
+```cpp
+    sprintf(parampath, "NAME_OF_YOUR_MODEL.param", modeltype);
+    sprintf(modelpath, "NAME_OF_YOUR_MODEL.bin", modeltype);
+```
+
+2. Change class name that you declare in yaml file
+```cpp
+int Yolo::draw(cv::Mat& rgb, const std::vector<Object>& objects)
+{
+    static const char* class_names[] = {
+            "NAME_OF_YOUR_CLASS" // <---------- CHANGE CLASS
+    };
+```
+
+3. Change output name which you can find in .param file
+
+File: `best.param`
+
+$$
+\texttt{Permute                  /model.22/Transpose      1 1 /model.22/Concat\_3\_output\_0 } \underbrace{\texttt{output0}}_{\text{OUTPUT\_NAME}} \texttt{ 0=1}
+$$
+
+
+File: `yolo.cpp`
+
+```cpp
+    ncnn::Mat out;
+    ex.extract("OUTPUT_NAME", out);
+```
 
 ### Step 7: edit `local.properties`
+File: `app\local.properties`
 
-### Step 8: RUN
+```
+sdk.dir=C\:\\Users\\<username>\\AppData\\Local\\Android\\Sdk
+cmake.dir=C\:\\Users\\<username>\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404
+```
+
+### Step 8: SYNC and RUN
+<img src="tutorial_assets/sync.png" height="250" />
+
+
+## Sources:
+
+https://medium.com/@gary.tsai.advantest/top-tutorials-for-deploying-custom-yolov8-on-android-%EF%B8%8F-dd6746afc1e6
+
+https://github.com/daquexian
+
+https://github.com/JMeneu/signlingo
+
+https://stackoverflow.com/questions/76381317/yolov8-tflite-python-predictions-and-interpreting-output/76650078#76650078
+
+https://github.com/ultralytics/ultralytics/issues/2580
+
+
