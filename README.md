@@ -5,7 +5,7 @@ Before starting with onnx, I have tried to convert `.pt` to `tflite`; however, i
 
 You can check the python code [here](https://github.com/lamegaton/Machine-Learning-and-AI-Examples/blob/main/Supervised/CNNs/YOLO/Examine%20pre-processing%20and%20pos-processing%20from%20YOLOv8.ipynb) to see how it works. Although it might be a task for future consideration, our immediate goal is to ensure that the app runs smoothly with our trained model. Thankfully, ncnn provides a ready-to-use template with `nms_sorted_bboxes`.
 
-## Steps to implement
+## Implementation Steps
 If you install yolov8 with pip you can locate the package and edit the source code. Ultranalytics also propose a way to convert directly to ncnn [here](https://github.com/ultralytics/ultralytics/pull/3529), but I have not tried it yet. So, for now we just convert `.pt` file to `.onnx`, and finally to `.param` and `bin`:
 
 My current yolo version is **8.0.155**
