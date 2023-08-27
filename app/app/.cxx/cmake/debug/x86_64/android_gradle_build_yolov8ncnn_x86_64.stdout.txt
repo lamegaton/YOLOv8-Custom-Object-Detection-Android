@@ -1,2 +1,19 @@
-ninja: Entering directory `C:\Users\jorge\Downloads\ncnn-android-yolov8-main\ncnn-android-yolov8-main\ncnn-android-yolov8\app\.cxx\cmake\debug\x86_64'
-ninja: no work to do.
+ninja: Entering directory `S:\github\signlingo-main\Deployment\app\app\.cxx\cmake\debug\x86_64'
+[1/4] Building CXX object CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o
+S:/github/signlingo-main/Deployment/app/app/src/main/jni/ndkcamera.cpp:434:22: warning: 'ASensorManager_getInstance' is deprecated [-Wdeprecated-declarations]
+    sensor_manager = ASensorManager_getInstance();
+                     ^
+C:/Users/sonph/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\android/sensor.h:557:17: note: 'ASensorManager_getInstance' has been explicitly marked deprecated here
+__attribute__ ((deprecated)) ASensorManager* ASensorManager_getInstance();
+                ^
+1 warning generated.
+[2/4] Building CXX object CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o
+[3/4] Building CXX object CMakeFiles/yolov8ncnn.dir/yolo.cpp.o
+S:/github/signlingo-main/Deployment/app/app/src/main/jni/yolo.cpp:249:38: warning: data argument not used by format string [-Wformat-extra-args]
+    sprintf(parampath, "best.param", modeltype);
+                       ~~~~~~~~~~~~  ^
+S:/github/signlingo-main/Deployment/app/app/src/main/jni/yolo.cpp:250:36: warning: data argument not used by format string [-Wformat-extra-args]
+    sprintf(modelpath, "best.bin", modeltype);
+                       ~~~~~~~~~~  ^
+2 warnings generated.
+[4/4] Linking CXX shared library S:\github\signlingo-main\Deployment\app\app\build\intermediates\cmake\debug\obj\x86_64\libyolov8ncnn.so

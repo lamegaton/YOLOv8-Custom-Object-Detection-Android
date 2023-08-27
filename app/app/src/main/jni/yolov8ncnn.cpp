@@ -129,8 +129,22 @@ void MyNdkCamera::on_image_render(cv::Mat& rgb) const
         {
             std::vector<Object> objects;
             g_yolo->detect(rgb, objects);
-
             g_yolo->draw(rgb, objects);
+            // Display total count of detected objects
+            char count_text[32];
+            sprintf(count_text, "Total Objects: %zu", objects.size());
+
+            int baseLine = 0;
+            cv::Size label_size = cv::getTextSize(count_text, cv::FONT_HERSHEY_SIMPLEX, 0.5, 1, &baseLine);
+
+            int y = 20;
+            int x = 10;
+
+            cv::rectangle(rgb, cv::Rect(cv::Point(x, y - label_size.height), cv::Size(label_size.width, label_size.height + baseLine)),
+                          cv::Scalar(255, 255, 255), -1);
+
+            cv::putText(rgb, count_text, cv::Point(x, y),
+                        cv::FONT_HERSHEY_SIMPLEX, 0.5, cv::Scalar(0, 0, 0));
         }
         else
         {

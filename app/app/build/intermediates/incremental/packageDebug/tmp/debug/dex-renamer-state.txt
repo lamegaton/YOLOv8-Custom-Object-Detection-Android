@@ -1,4 +1,4 @@
-#Mon Aug 21 14:58:11 EDT 2023
+#Mon Aug 21 16:22:14 EDT 2023
 base.1=S\:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
 path.1=classes.dex
 base.0=S\:\\github\\signlingo-main\\Deployment\\app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex

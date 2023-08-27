@@ -1,2 +1,3 @@
 ninja: Entering directory `S:\github\signlingo-main\Deployment\app\app\.cxx\cmake\debug\arm64-v8a'
-ninja: no work to do.
+[1/2] Building CXX object CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o
+[2/2] Linking CXX shared library S:\github\signlingo-main\Deployment\app\app\build\intermediates\cmake\debug\obj\arm64-v8a\libyolov8ncnn.so
